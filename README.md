@@ -16,9 +16,10 @@ To run the To-Do App locally on your machine, follow these steps:
 <li>Clone this repository to your local machine.</li>
 <li>Navigate to the project directory in your terminal.</li>
 <li>Install the necessary dependencies by running the following command:</li>
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
+<li>Once the dependencies are installed, start the development server by running:</li>
 </ol>
 
 
