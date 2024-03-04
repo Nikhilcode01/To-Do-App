@@ -10,8 +10,14 @@ With this app, you can efficiently organize your tasks, set deadlines, and track
 <li><b>Deadline Tracking:</b> Stay on top of your deadlines by setting due dates for your tasks. The app provides visual cues to remind you of approaching deadlines.</li>
 <li><b>Responsive Design:</b> Access your to-do list from any device – desktop, tablet, or mobile – thanks to the app's responsive design.</li>
 </ul>
-
-
+<h3>Getting Started</h3>
+To run the To-Do App locally on your machine, follow these steps:
+<ol>
+<li>Clone this repository to your local machine.</li>
+<li>Navigate to the project directory in your terminal.</li>
+<li>Install the necessary dependencies by running the following command:</li>
+    npm install
+</ol>
 
 
 
