@@ -26,4 +26,5 @@ npm install
 ```bash
 npm start
 ```
+<li>Open your web browser and navigate to <i>http://localhost:3000</i> to access the To-Do App.</li>
 </ol>
